@@ -9,7 +9,6 @@
         <module>cs-admin-server</module>
         <module>customer-system</module>
         <module>outsouring-system</module>
-        <module>outsouring-system-beijing</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
